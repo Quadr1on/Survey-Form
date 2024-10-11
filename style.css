@@ -208,7 +208,7 @@ textarea {
     position: absolute;
     /* inset: -0.2rem;  */
     height:38px;
-    width: 103px;
+    width: 88px;
     background: linear-gradient(120deg,
     var(--clr-3),
     var(--clr-4),
