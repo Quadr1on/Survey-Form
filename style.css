@@ -229,6 +229,15 @@ textarea {
     margin: 40px 0px 0 20px ;
 }
 
+footer{
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #122836;
+}
 ::-webkit-scrollbar {
     width: 10px;
     height: 10px;
